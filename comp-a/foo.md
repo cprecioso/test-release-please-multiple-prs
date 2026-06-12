@@ -1,3 +1,0 @@
-This is foo
-
-improve
